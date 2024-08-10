@@ -1,3 +1,3 @@
-Hi, my name is Richard and I am a software developer looking to make contributions.
+Hi, my name is Richard and I am a software developer.
 
-My hobbies include video-games and reading.
+I am experienced in software system development and familiar with cybersecurity concepts.
